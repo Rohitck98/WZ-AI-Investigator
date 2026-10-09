@@ -1,0 +1,230 @@
+﻿OBJECTID,Road Names,Direction,Beginning Cross Street,Ending Cross Street,Start Date Only,End Date Only,Name,Description,Work Zone Impact
+592,E Stassney Ln,Eastbound,IH35 SBFR,IH35 NBFR,9/2/2026,9/4/2026,"CapEx South, Full Closure of Stassney Ln.",LCN 2705: EML Bridge Structures work,All Lanes Closed
+60,Sandpiper Ave,Westbound,SANDPIPER AVENUE,SANDPIPER AVENUE,9/3/2026,10/2/2026,"CapEx North, Utility work","LCN 1203, EB/WB SANDPIPER DR CLOSED BETWEEN POLLYANNA AVENUE AND SB IH-35 FR, WATERLINE INSTALLATION",All Lanes Closed
+594,IH 35,Southbound,Old San Antonio Rd.,Farrah Ln.,9/3/2026,9/4/2026,"CapEx South, SBML Double Left Lane",LCN 2707: Overhead DMS Sign work,Some Lanes Closed
+595,IH 35 Frontage Rd,Southbound,Slaughter Creek Overpass,Farrah Ln.,9/3/2026,9/4/2026,"CapEx South, SBFR Single Left lane",LCN 2708: Overhead DMS Sign work,Some Lanes Closed
+630,IH 35,Northbound,Boggy Creek,Teri Rd.,9/8/2026,9/11/2026,CapEx South: NBML Double Left Lane,LCN 2709: EML Bridge Structures work,Some Lanes Closed
+631,IH 35,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/8/2026,9/11/2026,CapEx South: SBML Entrance Ramp South of Ben White Blvd.,LCN 2711: EML Bridge Structures work,All Lanes Closed
+634,IH 35,Northbound,William Cannon Dr.,Nelms Dr.,9/8/2026,9/11/2026,CapEx South: Entrance Ramp North of William Cannon Dr.,LCN 2710: EML Bridge Structures work,All Lanes Closed
+635,IH 35,Southbound,SH71,IH35,9/8/2026,9/11/2026,CapEx South: WB SH71 to IH35 SB Direct Connect,LCN 2714: EML Bridge Structures work,All Lanes Closed
+636,IH 35,Southbound,SH71,IH35,9/8/2026,9/11/2026,CapEx South: EB SH71 to IH35 SB Direct Connect,LCN 2713: EML Bridge Structures work,All Lanes Closed
+637,IH 35 Frontage Rd,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/8/2026,9/11/2026,CapEx South: SBFR Single Left lane,LCN 2712: EML Bridge Structures work,Some Lanes Closed
+638,IH 35,Northbound,GRAND AVENUE PKWY,W. LOUIS HENNA BLVD (IH-45),9/8/2026,9/11/2026,"CapEx North, roadway work","LCN 1404, NB IH-35 ML TWO RIGHT LANES CLOSED BETWEEN GRAND AVENUE PKWY AND LOUIS HENNA BLVD. (LOUIS HENNA)",Some Lanes Closed
+641,IH 35,Northbound,WELLS BRANCH PKWY,WELLS BRANCH PKWY,9/8/2026,10/10/2026,"CapEx North, roadway work","LCN 1039, NB IH-35 FR CLOSE THE NORTH TO SOUTH U-TURN AT WELLS BRANCH",All Lanes Closed
+645,IH 35 Frontage Rd,Southbound,Taft Ln.,Old San Antonio Rd.,9/8/2026,9/11/2026,CapEx South: Single Left Lane Closure ,LCN 2715: Drainage installation work,Some Lanes Closed
+646,IH 35 Frontage Rd,Northbound,Slaughter Ln,Boggy Creek Dr.,9/8/2026,9/11/2026,CapEx South: NBFR Sin,LCN 2716: EML Bridge Structures work,Some Lanes Closed
+647,IH 35,Southbound,Stassney Ln,William Cannon Dr.,9/8/2026,9/11/2026,CapEx South: SBML Double Right Lane,"LCN 2717: Overhead sign bridge removal, CTB move",Some Lanes Closed
+648,IH 35,Northbound,Slaughter Ln,Boggy Creek Dr.,9/8/2026,9/11/2026,CapEx South: NBML Double Right lane,LCN 2718: EML Bridge Structures work,Some Lanes Closed
+649,IH 35,Southbound,Slaughter Creek Overpass,Onion Creek Pkwy,9/8/2026,9/11/2026,CapEx South: SBML Single Left Lane,LCN 2719: PCTB Move,Some Lanes Closed
+650,IH 35,Northbound,Heatherly Dr. ,Onion Creek Pkwy,9/8/2026,9/11/2026,CapEx South: NBML Double Left Lane,LCN 2720: Onion Creek Bridge Structures work,Some Lanes Closed
+655,IH 35,Northbound,SH-71 Ben White,Woodward Street,9/8/2026,9/9/2026,"CapEx Central Lady Bird Lake, Sign Work","LCN 412 
+Single Right Closed ",
+651,IH 35,Southbound,IH35 SBFR,IH35 NBFR,9/9/2026,9/11/2026,CapEx South: SBFR to NBFR U-Turn Lane @ Stassney Ln. Intersection,LCN 2721: EML Bridge Structures work,All Lanes Closed
+652,IH 35,Northbound,IH35 NBFR,IH35 SBFR,9/9/2026,9/11/2026,CapEx South: NBFR to SBFR U-Turn lane @ Stassney Ln intersection,LCN 2722: EML Bridge Structures work,All Lanes Closed
+653,E Stassney Ln,Eastbound,IH35 SBFR,IH35 NBFR,9/9/2026,9/11/2026,CapEx South: Full Closure of Stassney Ln.,LCN 2723: EML Bridge Structures work,All Lanes Closed
+654,E Stassney Ln,Westbound,IH35 NBFR,IH35 SBFR,9/9/2026,9/11/2026,CapEx South: Full WB Closure of Stassney Ln Intersection,LCN 2723: EML Bridge Structures work,All Lanes Closed
+361,IH 35,Southbound,E Huntland Dr,HWY-290,9/10/2026,9/11/2026,"CapEx North, roadway work","LCN 22, SB IH-35 FR CLOSE THE US 290 ENTRANCE RAMP",All Lanes Closed
+673,IH 35,Southbound,GRAND AVENUE PKWY,OUIDA DRIVE,9/10/2026,9/11/2026,"CapEx North, roadway work","LCN 1286, SB IH-35 ML CLOSE THE RIGHT LANE BETWEEN GRAND AVENUE PKWY AND QUIDA ST.",Some Lanes Closed
+685,Rutherford Dr,Westbound,NB IH-35 FR,BRETTONWOODS LN,9/10/2026,9/11/2026,"CapEx North, maintenance work","LCN 789, NB IH-35 FR CLOSE THE RIGHT LANE BETWEEN NORWOOD PARK AND RUTHERFORD LANE. ALSO WB RUTHERFORD LANE CLOSE THE RIGHT LANE BETWEEN BRIDGETOWN ROAD AND NB IH-35 FR.",Some Lanes Closed
+660,IH 35,Northbound,Boggy Creek,Teri Rd.,9/13/2026,9/18/2026,CapEx South: NBML Double Left Lane,LCN 2725: EML Bridge Structures work,Some Lanes Closed
+661,IH 35,Southbound,Woodward St.,Stassney Ln,9/13/2026,9/18/2026,CapEx South: SBML Double Left Lane,LCN 2726: EML Bridge Structures work,Some Lanes Closed
+662,IH 35,Northbound,William Cannon Dr.,Nelms Dr.,9/13/2026,9/18/2026,CapEx South: Entrance Ramp North of William Cannon Dr.,LCN 2727: EML Bridge Structures work,All Lanes Closed
+663,IH 35,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/13/2026,9/19/2026,CapEx South: SBML Entrance Ramp South of Ben White Blvd.,LCN 2728: EML Bridge Structures work,All Lanes Closed
+664,IH 35,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/13/2026,9/18/2026,CapEx South: Single Right Lane Closure,LCN 2729: EML Bridge Structures work,Some Lanes Closed
+665,IH 35,Southbound,EB SH71,SB IH35 ,9/13/2026,9/18/2026,CapEx South: EB SH71 to IH35 SB Direct Connect,LCN 2730: EML Bridge Structures work,All Lanes Closed
+666,IH 35,Southbound,WB SH71 ,SB IH35 ,9/13/2026,9/18/2026,CapEx South: WB SH71 to IH35 SB Direct Connect,LCN 2731: EML Bridge Structures work,All Lanes Closed
+667,IH 35 Frontage Rd,Southbound,Taft Ln.,Old San Antonio Rd.,9/13/2026,9/18/2026,CapEx South: SBFR Single Left Lane,LCN 2732: Drainage installation work,Some Lanes Closed
+669,IH 35 Frontage Rd,Northbound,Slaughter Ln,Boggy Creek Dr.,9/13/2026,9/18/2026,CapEx South: NBFR Single Left Lane,LCN 2734: EML Bridge Structures work,Some Lanes Closed
+670,IH 35,Southbound,Stassney Ln,Slaughter Ln,9/13/2026,9/18/2026,CapEx South: SBML Double Left Lane,LCN 2735: PCTB Move,Some Lanes Closed
+671,IH 35,Southbound,Slaughter Creek Overpass,Onion Creek Pkwy,9/13/2026,9/18/2026,CapEx South: NBML Left Lane,LCN 2736: PCTB Move,Some Lanes Closed
+672,IH 35,Southbound,Ralph Ablanedo Dr.,Slaughter Creek Overpass,9/13/2026,9/18/2026,CapEx South: SBML Single Right Lane,LCN 2737: PCTB Move,Some Lanes Closed
+674,IH 35,Northbound,East Riverside Drive ,Holly Street,9/13/2026,9/18/2026,"CapEx Central Lady Bird Lake, Roadway Repair   ","LCN 414
+Single Left Lane Closed",
+677,IH 35 Frontage Rd,Southbound,East Riverside Drive,Reagan Terrace,9/13/2026,9/14/2026,"CapEx Central Lady Bird Lake, Mobile Operation  ","LCN 416
+Wire Crossing (15-min stops)",
+103,Three Points Rd,Westbound,THREE POINTS ROAD,THREE POINTS ROAD,9/14/2026,9/22/2026,"CapEx North, utility work","LCN 840, THREE POINTS ROAD CLOSED BETWEEN VISION AND NBFR IH-35, FULL CLOSURE",All Lanes Closed
+676,IH 35 Frontage Rd,Southbound,East Riverside Drive,Reagan Terrace,9/14/2026,9/25/2026,"CapEx Central Lady Bird Lake, Roadway Installation ","LCN 417
+Single Left Lane Closed",
+683,Canyon Ridge,Westbound,NB IH-35 FR,MCALLEN PASS,9/14/2026,10/9/2026,"CapEx North, utility work","LCN 1388, EB/WB CANYON RIDGE DR FULL CLOSURE BETWEEN NB IH-35 FR AND MCALLEN PASS.",Some Lanes Closed
+692,IH 35 Frontage Rd,Northbound,RUBY DRIVE,E BRAKER LN,9/14/2026,9/16/2026,"CapEx North, utility work","LCN 1479, NB IH-35 FR VARIOUS LANES CLOSED BETWEEN RUBY DR AND BRAKER LN. ONE LANE OF TRAFFIC WILL BE OPENED AT ALL TIMES",Some Lanes Closed
+567,Howard Ln,Westbound,NB IH-35 FR,Howard Ln,9/16/2026,9/17/2026,"CapEx North, utility work","LCN R498380-5, EB Howard at NBFR, WB East of NBFR at Howard & IH-35 NBFR at Howard, Short Duration Full Closure for 15 Minutes between Center Ridge Dr and The Lake Blvd",All Lanes Closed
+658,IH 35,Undefined,CENTER RIDGE DRIVE,THE LAKE BLVD,9/16/2026,9/17/2026,"CapEx North, utility work","LCN R498380-6, NB/SB IH-35 ML, NB/SB IH-35 FR, SHORT DURATION FREEWAY CLOSURE - FFC 15 MIN BETWEEN PARMER LN AND HOWARD LN",All Lanes Closed
+642,IH 35,Southbound,WELLS BRANCH PKWY,W HOWARD LN,9/17/2026,9/18/2026,"CapEx North, utility work","LCN 1094, SB IH-35 ML TWO RIGHT LANES CLOSED WITH EXIT RAMP 246 BETWEEN WELLS BRANCH PKWY AND HOWARD LN ALSO SB IH-35 FR CLOSE SOUTH BOUND WELLS BRANCH ENTRANCE RAMP. ",Some Lanes Closed
+643,IH 35,Southbound,WELLS BRANCH PKWY,Howard LN,9/17/2026,9/18/2026,"CapEx North, utility work","LCN 1094, SB IH-35 ML TWO RIGHT LANES CLOSED WITH EXIT RAMP 246 BETWEEN WELLS BRANCH PKWY AND HOWARD LN",All Lanes Closed
+644,IH 35,Southbound,WELLS BRANCH PKWY,W HOWARD LN,9/17/2026,9/18/2026,"CapEx North, utility work","LCN 1094, SB IH-35 ML TWO RIGHT LANES CLOSED WITH CLOSE SOUTH BOUND WELLS BRANCH ENTRANCE RAMP.",All Lanes Closed
+659,IH 35,Undefined,WELLS BRANCH PKWY,W HOWARD LN,9/17/2026,9/18/2026,"CapEx North, utility work","LCN 1093, NB & SB IH-35 ML FFC 15 MIN CLOSURE BETWEEN WELLS BRANCH PKWY AND HOWARD LN, NB & SB IH-35 FR FFC 15 MIN CLOSURE BETWEEN WELLS BRANCH PKWY AND HOWARD LN ",All Lanes Closed
+715,IH 35,Northbound,Woodland Ave,Woodland Ave,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 424
+NBFR to SBFR U-Turn Closed",
+716,IH 35,Southbound,Woodland Ave,Woodland Ave,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 424
+SBFR to NBFR U-Turn Closed",
+720,IH 35,Southbound,Lambie Street ,Oltorf Street,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Lighting Work","LCN 427
+Single Right Lane Closed ",
+721,IH 35,Southbound,Riverside Drive ,Reagan Terrace,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Lighting Work","LCN 427
+SBFR Bypass Closed ",
+722,IH 35,Southbound,Riverside Drive ,Reagan Terrace,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Lighting Work","LCN 427
+SB Exit Ramp",
+723,IH 35,Southbound,Reagan Terrace,Woodland Avenue ,9/17/2026,9/18/2026,"CapEx Central Lady Bird Lake, Lighting Work ","LCN 427
+SB Entrance Ramp",
+680,IH 35,Southbound,Little Texas Ln.,Foremost Dr.,9/18/2026,9/19/2026,CapEx South: Full SBML Closure of IH35,LCN 2738: EML Bridge Structures work,All Lanes Closed
+679,Manlove St,Southbound,East Riverside Drive,East Riverside Drive,9/20/2026,9/25/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 419 
+Partial Closure with flagging Operations ",
+717,IH 35,Northbound,Holly Street,Holly Street,9/20/2026,9/21/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 425 
+NBFR to SBFR U-Turn Closed ",
+718,IH 35,Northbound,Woodland Ave ,Holly Street ,9/20/2026,9/23/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 426 
+Single Right Lane Closed ",
+719,IH 35,Southbound,East Oltorf Street ,SH-71 Ben White,9/20/2026,9/23/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 426
+Double Left Lane Closed  ",
+727,IH 35,Northbound,Boggy Creek,Teri Rd.,9/20/2026,9/26/2026,CapEx South: NBML Double Left Lane Closure,LCN 2740: EML Bridge Structures work,Some Lanes Closed
+728,IH 35,Southbound,Woodward St.,William Cannon Dr.,9/20/2026,9/26/2026,CapEx South: SBML Double Left Lane,LCN 2741: EML Bridge Structures work,Some Lanes Closed
+729,IH 35,Northbound,William Cannon Dr.,Nelms Dr.,9/20/2026,9/25/2026,CapEx South: NBML Entrance Ramp North of William Cannon Dr.,LCN 2742: EML Bridge Structures work,All Lanes Closed
+730,IH 35 Frontage Rd,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/20/2026,9/25/2026,CapEx South: SBML Entrance Ramp South of Ben White Blvd.,LCN 2743: EML Bridge Structures work,
+731,IH 35,Southbound,Ben White Blvd.,Battle Bend Blvd.,9/20/2026,9/25/2026,CapEx South: SBML Single Right Lane,LCN 2744: EML Bridge Structures work,Some Lanes Closed
+732,IH 35,Southbound,SH71,IH35 SBML,9/20/2026,9/25/2026,CapEx South: WB SH71 to IH35 SB Direct Connect,LCN 2746: EML Bridge Structures work,All Lanes Closed
+733,IH 35,Southbound,SH71,IH35 SBML,9/20/2026,9/25/2026,CapEx South: EB SH71 to IH35 SB Direct Connect,LCN 2745: EML Bridge Structures work,All Lanes Closed
+734,IH 35 Frontage Rd,Southbound,Taft Ln.,Old San Antonio Rd.,9/20/2026,9/25/2026,CapEx South: SBFR Single Right Lane Closure,LCN 2747: Drainage system installation work,Some Lanes Closed
+735,IH 35 Frontage Rd,Northbound,Boggy Creek,Boggy Creek Dr.,9/20/2026,9/25/2026,CapEx South: NBFR Single Left Lane,LCN 2748: EML Entrance Ramp Bridge Structures work,Some Lanes Closed
+737,IH 35,Southbound,Old San Antonio Rd.,FM 1626,9/20/2026,9/25/2026,CapEx South: SBML Exit Ramp 225,LCN 2750: Asphalt Paving work,All Lanes Closed
+739,IH 35,Northbound,Slaughter Ln,Boggy Creek Dr.,9/20/2026,9/25/2026,CapEx South: NBML Single Right Lane,LCN 2752: PCTB Move ,Some Lanes Closed
+741,W William Cannon Dr,Eastbound,IH35 SBFR,IH35 NBFR,9/20/2026,9/25/2026,CapEx South: Full EB William Cannon Dr. ,LCN 2757: EML Bridge Structures work,All Lanes Closed
+742,W William Cannon Dr,Westbound,IH35 NBFR,IH35 SBFR,9/20/2026,9/25/2026,CapEx South: Full WB William Cannon Dr.,LCN 2758: EML Bridge Structures work,All Lanes Closed
+743,IH 35,Southbound,IH35 SBFR,IH35 NBFR,9/20/2026,9/25/2026,CapEx South: SBFR to NBFR U-Turn lane @ William Cannon Dr.,LCN 2759: EML Bridge Structures work,All Lanes Closed
+744,IH 35,Northbound,IH35 NBFR,IH35 SBFR,9/20/2026,9/25/2026,CapEx South: NBFR to SBFR U-Turn @ William Cannon Intersection,LCN 2760: EML Bridge Structures work,All Lanes Closed
+747,IH 35 Frontage Rd,Southbound,Little Texas Ln.,William Cannon Dr.,9/20/2026,9/25/2026,CapEx South: SBFR Single Left lane,LCN 2761: ITS Installation work,Some Lanes Closed
+675,IH 35 Frontage Rd,Southbound,Reagan Terrace,Woodland Ave,9/21/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 415
+Single Right Lane Closed 
+October 2 and October 9 no closure
+",
+724,IH 35,Northbound,Cesar Chavez ,4th Street,9/21/2026,9/22/2026,CapEx-C Drainage Tunnel (Cesar Chavez) NBFR,NBFR Left Lane Closure from Cesar Chavez to 4th Street to perform Instrumentation Installation,Some Lanes Closed
+745,IH 35,Southbound,W HOWARD LN,W HOWARD LN,9/21/2026,10/2/2026,"CapEx North, utility work","LCN 1060, SB IH-35 FR CLOSE THE SOUTHBOUND TO NORTH BOUND UTURN @ HOWARD LN. ",All Lanes Closed
+746,Howard Ln,Eastbound,MAYE PL,SB IH-35 FR,9/21/2026,10/2/2026,"CapEx North, utility work","LCN 1181, EB HOWARD LANE VARIOUS LANES CLOSED BETWEEN MAYE PL & SB IH-35 FR",Some Lanes Closed
+748,Howard Ln,Westbound,THE LAKE BLVD,NB IH-35 FR,9/21/2026,10/2/2026,"CapEx North, utility work","LCN 1480, WB HOWARD LN RIGHT LANE CLOSED BETWEEN THE LAKE BLVD AND NB IH-35 FR",
+751,IH 35,Northbound,Cesar Chavez ,4th Street,9/21/2026,9/22/2026,CapEx-C Drainage Tunnel (Cesar Chavez) NBFR,NBFR Entrance Ramp Closure from Cesar Chavez to 4th Street to perform Instrumentation Installation,Some Lanes Closed
+752,IH 35 Frontage Rd,Northbound,Cesar Chavez ,4th Street,9/21/2026,9/22/2026,CapEx-C Drainage Tunnel (Cesar Chavez) NBFR,NBFR U-Turn Closure from Cesar Chavez to 4th Street to perform Instrumentation Installation,Some Lanes Closed
+754,183A Toll,Northbound,North of Volta Dr,North of Scottsdale Dr,9/21/2026,9/24/2026,"183A Toll, Pothole Fibercrete Repair","M-0578(0579,0580), Right Lane/Shoulder closed",Some Lanes Closed
+725,Cesar Chavez,Westbound,Linden St,S Pleasant Valley Rd,9/22/2026,9/24/2026,CapEx-C Drainage Tunnel (Cesar Chavez) Linden to Pleasant Valley Rd,EB/WB Left lanes closed for Excavation and WWL repair,Some Lanes Closed
+726,Cesar Chavez,Eastbound,S Pleasant Valley Rd,Linden St,9/22/2026,9/24/2026,CapEx-C Drainage Tunnel (Cesar Chavez) Linden St to Pleasant Valley Rd,WB/EB Left lanes closed for Excavation and WWL repair,Some Lanes Closed
+736,IH 35,Southbound,Slaughter Ln,Onion Creek Pkwy,9/22/2026,9/25/2026,CapEx South: SBML Double Right Lane,LCN 2749: Asphalt Paving operation,Some Lanes Closed
+738,IH 35,Southbound,FM 1626,Onion Creek Pkwy,9/22/2026,9/25/2026,CapEx South: SBML Entrance Ramp South of FM 1626,LCN 2751: Asphalt paving work,All Lanes Closed
+740,IH 35,Southbound,Slaughter Ln,Onion Creek Pkwy,9/22/2026,9/25/2026,CapEx South: SBML Double Right Lane,LCN 2756: Asphalt Paving work,Some Lanes Closed
+756,US 290,Eastbound,Before Johnny Morris Rd,After Johnny Morris RD,9/22/2026,9/23/2026,"290 Toll, Sealing Bridge Joints","M-0581, Left Lane/Shoulder Closed",Some Lanes Closed
+758,IH 35,Northbound,Slaughter Creek Overpass,Brandt Rd.,9/22/2026,9/25/2026,CapEx South: NBML Exit Ramp 227,EML Bridge Structures work,All Lanes Closed
+759,IH 35,Northbound,Onion Creek Pkwy,Crown Colony Dr.,9/22/2026,9/25/2026,CapEx South: NBML Exit Ramp 226,EML Bridge Structures work,All Lanes Closed
+760,IH 35,Southbound,Woodland Ave,Woodland Ave,9/22/2026,9/24/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 433
+SBFR to NBFR U-Turn",
+761,IH 35,Northbound,Woodland Ave ,Woodland Avenue ,9/22/2026,9/24/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work ","LCN 433
+NBFR to SBFR U-Turn",
+757,US 290,Eastbound,Before Johnny Morris Rd,After Johnny Morris RD,9/23/2026,9/24/2026,"290 Toll, Sealing Bridge Joints","M-0584, Right Lane/Shoulder Closed",Some Lanes Closed
+762,IH 35 Frontage Rd,Southbound,Reagan Terrace ,Woodland Avenue ,9/23/2026,9/25/2026,"CapEx Central Lady Bird Lake, Rumble Strip Installation","LCN 430  
+SBFR Alternating Lanes ",
+763,IH 35 Frontage Rd,Northbound,Mariposa Drive,Woodland Avenue ,9/23/2026,9/25/2026,"CapEx Central Lady Bird Lake, Rumble Strip Installation","LCN 430
+NBFR Alternating Lanes",
+764,183A Toll,Southbound,Before Scottsdale,Scottsdale,9/23/2026,9/24/2026,"183A Toll, Pothole Fibercrete Repair SB","M-0585, Right Lane/Shoulder Closed",Some Lanes Closed
+767,183A Toll,Northbound,South of Bushy Creek Rd,North of Innovation Way,9/23/2026,9/24/2026,"183A Toll, Sealing Bridge Joints","M-0587, Left Lane/Shoulder Closed",Some Lanes Closed
+766,183A Toll,Southbound,Scottsdale,Volta Dr,9/24/2026,9/25/2026,"183A Toll, Pothole Repair SB","M-0586, Right Lane/Shoulder Closed",Some Lanes Closed
+768,183A Toll,Northbound,South of Bushy Creek Rd,North of Innovation Way,9/24/2026,9/25/2026,"183A Toll, Sealing Bridge Joints","M-0588, Right Lane/Shoulder Closed",Some Lanes Closed
+770,183A Toll Frontage Rd,Northbound,North of Sparkie Ln,Before E Crystal Falls Pkwy,9/24/2026,9/24/2026,"183A Toll, Repair Guardrail FR","M-0589, Left Lane Closed",Some Lanes Closed
+771,Farmers Circle,Eastbound,FARMERS CIRCLE,FARMERS CIRCLE,9/24/2026,10/10/2026,"CapEx North, roadway work","LCN 1478, EB/WB FARMERS CIRCLE FULL CLOSURE BEWTEEN FARMERS CIRCLE AND SB IH-35 FR.",All Lanes Closed
+772,IH35,Northbound,Slaughter Ln,Boggy Creek,9/24/2026,9/25/2026,CapEx South: NBML Full Rolling Closure,AE Transmission is completing rolling full closure operations,All Lanes Closed
+773,IH35,Southbound,Foremost Rd.,Slaughter Ln,9/24/2026,9/25/2026,CapEx South: SBML Full Rolling Closure,AE Transmission is completing rolling closure operations. ,All Lanes Closed
+9,Flores St,Westbound,Waller Street ,IH-35 NBFR ,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 199
+Full Closure of Flores Street 
+",All Lanes Closed
+10,East Ave,Eastbound,Nash Hernandez Street,Festival Bch,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 194
+Full Closure of East Ave
+",All Lanes Closed
+12,Waller St,Northbound,Flores Street ,Nash Hernandez Sr Rd,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 197
+Full Closure of Waller Street",All Lanes Closed
+15,Nash Hernandez Sr Rd,Eastbound,NBFR ENT Ramp at East Ave,Nash Hernandez/East Ave INT,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 208
+Full Closure, Nash Hernandez Sr Rd ",All Lanes Closed
+174,Algarita Ave,Eastbound,Farmers Drive,IH-35 SBFR STA 3394+00,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Utility Work","LCN 342
+Algarita Full Closure",All Lanes Closed
+316,Reagan Ter,Eastbound,Reagan Terrace,IH-35 SBFR STA 3364+50,9/25/2026,10/9/2026,"CapEx Central Lady Bird Lake, Drainage Work","LCN 355
+Reagan Terrace Full Closure",
+769,183A Toll,Southbound,North of Loyola Ln,Bluestein Blvd,9/25/2026,9/25/2026,"183 Toll, Seal Concrete joint","M-0590, Left Shoulder Closed",Some Lanes Closed
+425,IH 35 Frontage Rd,Southbound,E Martin Luther King Jr Blvd,E Martin Luther King Jr Blvd,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 180/190
+SBFR Alternating Lanes ",
+426,IH 35 Frontage Rd,Northbound,E 16th Street ,E Martin Luther King Jr Blvd,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 180/190
+NBFR Alternating Lanes ",
+427,E Mlk Blvd,Eastbound,IH-35 SBFR ,IH-35 NBFR ,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 179/180/190
+MLK EB Alternating Lanes ",
+428,W Mlk Blvd,Westbound,IH-35 NBFR ,IH-35 SBFR ,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 179/180/190
+West Alternating Lanes
+",
+508,IH 35,Southbound,Airport Blvd ,E Martin Luther King Jr Blvd,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 183/ 186
+SBML Alternate Lanes ",
+509,IH 35,Northbound,E 12th Street,E 15th Street,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 184/187
+12th Street Entrance Ramp Closed ",
+510,IH 35,Northbound,E 12th Street,E 15th Street,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 184/187
+NBML Double Alternating Lanes Closed ",
+511,IH 35 Frontage Rd,Southbound,Clyde Littlefield Drive,E Martin Luther King Jr Blvd,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 185/188/190
+SB MLK Exit Ramp (lower deck)",
+512,IH 35,Southbound,Clyde Littlefield Drive,E Martin Luther King Jr Blvd,9/27/2026,10/2/2026,"CapEx Central MLK, New Construction ","LCN 185/188/190
+15TH Street Exit Ramp ",
+531,IH 35,Northbound,East Oltorf Street ,Holly Street,9/27/2026,9/30/2026,"CapEx Central Lady Bird Lake, Mill and Overlay ","LCN 395 
+Full Closure",All Lanes Closed
+532,IH 35 Frontage Rd,Northbound,East Oltorf Street ,Holly Street,9/27/2026,9/30/2026,"CapEx Central Lady Bird Lake, Mill and Overlay ","LCN 395 
+Single Left Lane Closed ",Some Lanes Closed
+534,IH 35,Southbound,Woodland Ave,Woodland Ave,9/27/2026,9/30/2026,"CapEx Central Lady Bird Lake, Mill and Overlay ","LCN 395
+U-Turn Closed at Woodland Ave",
+535,IH 35,Northbound,Oltorf Street,Woodland Ave,9/27/2026,9/30/2026,"CapEx Central Lady Bird Lake, Mill and Overlay ","LCN 395
+Entrance Ramp Closed at STA 3389",Some Lanes Closed
+558,IH 35,Southbound,E BRAKER LN,E RUNDBERG LN,9/27/2026,10/1/2026,"CapEx North, roadway work","LCN 1471, SB IH-35 ML TWO LEFT LANES CLOSED BETWEEN BRAKER LN AND RUNDBERG LN",Some Lanes Closed
+639,IH 35,Northbound,E RUNDBERG LN,E BRAKER LN,9/27/2026,9/28/2026,"CapEx North, roadway work","LCN 1376, NB IH-35 ML TWO VARIOUS LANES CLOSED BETWEEN RUNDBERG LN AND BRAKER LN",Some Lanes Closed
+640,IH 35,Northbound,E RUNDBERG LN,E BRAKER LN,9/27/2026,9/28/2026,"CapEx North, roadway work","LCN 1376, NB IH-35 ML TWO VARIOUS LANES CLOSED BETWEEN RUNDBERG LN AND BRAKER LN ALSO CLOSE EXIT 243 (BRAKER LN).",All Lanes Closed
+774,IH35,Northbound,Boggy Creek,Teri Rd.,9/27/2026,10/2/2026,CapEx South: NBML Double Left Lane,LCN 2762: EML Bridge Structures work,Some Lanes Closed
+775,IH35,Southbound,Woodward St.,Corral ln.,9/27/2026,10/2/2026,CapEx South: SBML Double Left Lane,LCN 2763: EML Bridge Structures work,Some Lanes Closed
+776,IH35,Northbound,William Cannon Dr.,Nelms Dr.,9/27/2026,10/2/2026,CapEx South: NBML Entrance Ramp North of William Cannon Dr.,LCN 2763: EML Bridge Structures work,All Lanes Closed
+777,IH35,Southbound,Ben White Blvd.,Stassney Ln.,9/27/2026,10/2/2026,CapEx South: Entrance Ramp South of Ben White Blvd. ,LCN 2765: EML Bridge Structures work,All Lanes Closed
+778,IH35,Southbound,Taft Ln.,Old San Antonio Rd.,9/27/2026,10/2/2026,CapEx South: SBFR Single left Lane,LCN 2766: Drainage system installation work,Some Lanes Closed
+779,William Cannon Dr.,Eastbound,IH35 SBFR,IH35 NBFR,9/27/2026,10/2/2026,CapEx South: Full EB William Cannon Dr. ,LCN 2767: EML Bridge Structures work,All Lanes Closed
+780,William Cannon Dr.,Westbound,IH35 NBFR,IH35 SBFR,9/27/2026,10/2/2026,CapEx South: Full WB William Cannon Dr. ,LCN 2768: EML Bridge Structures work,All Lanes Closed
+781,IH35,Southbound,IH35 SBFR,IH35 NBFR,9/27/2026,10/2/2026,CapEx South: SB to NB U-Turn Lane @ William Cannon Intersection,LCN 2769: EML Bridge Structures work,All Lanes Closed
+782,IH35,Northbound,IH35 NBFR,IH35 SBFR,9/27/2026,10/2/2026,CapEx South: NB to SB U-Turn Lane @ William Cannon Dr.,LCN 2770: EML Bridge Structures work,All Lanes Closed
+783,IH35,Northbound,Slaughter Creek Overpass,National Park blvd.,9/27/2026,10/1/2026,CapEx South: Full NBFR Closure,LCN 2771: Austin Energy Pole Installation,All Lanes Closed
+784,IH35,Southbound,Slaughter Creek Overpass,Slaughter Creek Overpass,9/27/2026,10/1/2026,CapEx South: SB to NB U-Turn Lane @ Slaughter Creek Overpass,LCN 2772: AE Pole Installation ,All Lanes Closed
+787,IH35,Southbound,FM 1626,Onion Creek Pkwy,9/27/2026,10/2/2026,CapEx South: Entrance Ramp South of Slaughter Creek Overpass,LCN 2775: Asphalt paving work & PH2S3 Traffic shift,All Lanes Closed
+788,IH35,Southbound,FM 1626,Onion Creek Pkwy,9/27/2026,10/1/2026,CapEx South: SBML Double Right Lane,LCN 2776: Asphalt paving work & PH2S3 traffic Shift. ,Some Lanes Closed
+789,IH35,Southbound,FM 1626,Onion Creek Pkwy,9/27/2026,10/1/2026,CapEx South: SBML Single Right Lane,LCN 2777: Asphalt paving work & PH2S3 Traffic Shift,Some Lanes Closed
+791,IH35,Northbound,Slaughter Ln,Boggy Creek Dr.,9/27/2026,10/1/2026,CapEx South: NBML Single Right Lane,LCN 2779: PCTB Move,Some Lanes Closed
+792,IH35,Southbound,Little Texas Ln.,William Cannon Dr.,9/27/2026,10/1/2026,CapEx South: SBFR Single Left Lane,LCN 2780: ITS Installation work,Some Lanes Closed
+793,IH35,Northbound,Slaughter Ln,Boggy Creek Dr.,9/28/2026,9/30/2026,CapEx South: NBFR Single Left Lane Closure,LCN 2781: Curb Placement work,Some Lanes Closed
+794,IH35,Northbound,Slaughter Ln,Boggy Creek Dr.,9/28/2026,9/30/2026,CapEx South: NBML Exit Ramp 227,LCN 2781: Curb Installation Work,All Lanes Closed
+446,IH 35,Northbound,GRAND AVENUE PKWY,PICADILLY DRIVE,9/29/2026,10/1/2026,"CapEx North, roadway work","LCN 1404, NB IH-35 ML CLOSE EXIT 250 (LOUIS HENNA)",All Lanes Closed
+797,IH 35 Frontage Rd,Northbound,GRAND AVENUE PKWY,W. LOUIS HENNA BLVD (IH-45),9/29/2026,10/1/2026,"CapEx North, roadway work","LCN 1404, NB IH-35 FR LEFT LANE CLOSED BETWEEN GRAND AVENUE PKWY AND SH 45. NB IH-35 ML CLOSE EXIT 250.",Some Lanes Closed
+596,IH 35,Southbound,Holly Street,Woodland Avenue ,9/30/2026,10/2/2026,"CapEx Central Lady Bird Lake, Roadway Paving ","LCN 406
+SBML Full Closure",All Lanes Closed
+597,IH 35 Frontage Rd,Southbound,Holly Street,Woodland Avenue ,9/30/2026,10/2/2026,"CapEx Central Lady Bird Lake, Roadway Paving","LCN 406
+SBFR Single Left Lane Closed",Some Lanes Closed
+598,IH 35,Northbound,Holly Street,Holly Street,9/30/2026,10/2/2026,"CapEx Central Lady Bird Lake, Roadway Paving ","LCN 406
+NBFR to SBFR U-Turn Closed ",All Lanes Closed
+678,IH 35 Frontage Rd,Northbound,Lambie Street ,Taylor Street ,9/30/2026,9/30/2026,"CapEx Central Lady Bird Lake, Tree Trimming ","LCN 418/435
+Single Right Lane Closed ",
+712,IH 35,Southbound,Holly Street ,Woodland Avenue ,9/30/2026,10/1/2026,"CapEx Central Lady Bird Lake, Roadway Striping ","LCN 423
+SBML Full Closure ",
+713,IH 35 Frontage Rd,Southbound,Holly Street ,Riverside Drive,9/30/2026,10/1/2026,"CapEx Central Lady Bird Lake, Roadway Striping","LCN 423 
+SBFR Single Left Lane Closure ",
+714,IH 35,Southbound,Woodland Ave,Woodland Ave,9/30/2026,10/1/2026,"CapEx Central Lady Bird Lake, Roadway Striping  ","LCN 423
+NBFR to SBFR U-Turn Closed at Woodland Ave",
+785,IH35,Northbound,National Park blvd.,Brandt Rd.,9/30/2026,10/2/2026,CapEx South: NBFR Single Right Lane,LCN 2773: AE Pole Installation,Some Lanes Closed
+786,IH35,Northbound,National Park blvd.,Brandt Rd.,9/30/2026,10/2/2026,CapEx South: NBML Exit Ramp 227,LCN 2774: AE Pole Installation ,All Lanes Closed
+790,IH35,Northbound,Onion Creek Pkwy,Slaughter Ln,9/30/2026,10/1/2026,CapEx South: NBML Dou,LCN 2778: Asphalt Paving work,Some Lanes Closed
+795,183A Toll,Southbound,Near Catalina Dr,Before New Hope exit,9/30/2026,10/1/2026,"183A Toll, Rigid Pavement Curb Repair","M-0592, Right Shoulder",All Lanes Open
+449,Zach Scott St,Eastbound,Tom Miller St,Camacho St,10/1/2026,10/17/2026,Bike lane protectin,Installation of bollards to protect bike lane,some-lanes-closed-merge-left
+706,IH 35,Northbound,East Riverside Drive ,Holly Street,10/1/2026,10/7/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 420 
+Double Right Lane Closed",
+707,IH 35,Northbound,Sunnyvale Street,Holly Street,10/1/2026,10/7/2026,"CapEx Central Lady Bird Lake, Guardrail/Barrier Work","LCN 420
+Bypass Closed ",
+798,183A Toll,Northbound,East of SH 29,West of Seward Junction Loop,10/4/2026,10/5/2026,"183A Toll, Guardrail Repair","M-0602, SB 29 Off Ramp & FR Left Lane ",Some Lanes Closed
+656,E Riverside Dr,Westbound,IH-35 NBFR ,IH-35 SBFR ,10/5/2026,10/7/2026,"CapEx Central Lady Bird Lake, Milling and Overlay","LCN 413 
+Alternating Lanes ",
+657,E Riverside Dr,Eastbound,IH-35 SBFR ,IH-35 NBFR ,10/5/2026,10/7/2026,"CapEx Central Lady Bird Lake, Milling and Overlay ","LCN 413
+Alternating Lanes ",
+708,IH 35,Northbound,East Oltorf Street ,Holly Street,10/5/2026,10/6/2026,"CapEx Central Lady Bird Lake, Roadway Stripting","LCN 422
+NBML Full Closure ",
+709,IH 35 Frontage Rd,Northbound,East Oltorf Street ,Woodland Ave,10/5/2026,10/6/2026,"CapEx Central Lady Bird Lake, Roadway Striping","LCN 422
+Single Left Lane Closed",
+710,IH 35,Southbound,Woodland Ave,Woodland Ave,10/5/2026,10/6/2026,"CapEx Central Lady Bird Lake, Roadway Striping","LCN 422
+SBFR to NBFR U-Turn Closed",
+711,IH 35,Northbound,Oltorf Street,Woodland Ave,10/5/2026,10/6/2026,"CapEx Central Lady Bird Lake, Roadway Striping","LCN 422
+On Ramp Closed",
+796,The Lakes Blvd,Eastbound,NB IH-35 FR,THE LAKES BLVD,10/12/2026,10/30/2026,"CapEx North, utility work","LCN 960, WB/EB THE LAKES BLVD FULL CLOSURE",All Lanes Closed
