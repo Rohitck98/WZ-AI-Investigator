@@ -38,8 +38,8 @@ if "messages" not in st.session_state:
 for message in st.session_state.messages:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])
-        if message.get("filters"): st.caption("Applied: " + " | ".join(message["filters"]))
-        if message.get("data") is not None: st.dataframe(message["data"], use_container_width=True)
+        if message.get("data") is not None:
+            st.dataframe(message["data"], use_container_width=True)
 
 question=st.chat_input("Ask about roads, directions, dates, closures, counts, or keywords")
 if question:
@@ -49,7 +49,7 @@ if question:
     shown=result.head(200)
     with st.chat_message("assistant"):
         st.markdown(answer)
-        st.caption("Applied: " + " | ".join(filters))
+        
         st.dataframe(shown, use_container_width=True)
         st.download_button("Download matching records", result.to_csv(index=False).encode("utf-8"), "workzone_results.csv", "text/csv")
     st.session_state.messages.append({"role":"assistant","content":answer,"filters":filters,"data":shown})
